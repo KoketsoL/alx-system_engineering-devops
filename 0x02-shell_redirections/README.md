@@ -3,5 +3,5 @@ This is a script that displays a confused smiley "(Ôo)'\
 This displays a file\
 Displays the content of a file\
 This displays the last 10 lines of a file\
-
+This displays the first 10 lines of a file\
 
