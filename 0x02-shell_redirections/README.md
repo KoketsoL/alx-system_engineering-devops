@@ -2,4 +2,6 @@ This is a script that prints "Hello, World", followed by a new line to the stand
 This is a script that displays a confused smiley "(Ôo)'\
 This displays a file\
 Displays the content of a file\
+This displays the last 10 lines of a file\
+
 
