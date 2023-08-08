@@ -24,3 +24,4 @@ This is a script that displays all users and their home directories, sorted by u
 This is a command that finds all empty files and directories in the current directory and all sub-directories\
 This is a script that lists all the files with a .gif extension in the current directory and all its sub-directories.\ 
 Acrostic\
+This is a script that parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests.\
